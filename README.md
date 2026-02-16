@@ -11,4 +11,3 @@ This project performs a deep dive into a year's worth of pizza sales data to unc
 ## Technologies Used
 - **Language:** Python 3.x
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- 
